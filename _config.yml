@@ -43,7 +43,7 @@ avatar: "/img/Baisal-Ergeshev.JPG"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#4293f5"
+navbar-col: "#67656e"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
